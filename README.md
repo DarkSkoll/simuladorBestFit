@@ -1,4 +1,4 @@
-#Simulador de Gestion de Memoria, con Algoritmo Best Fit
+# Simulador de Gestion de Memoria, con Algoritmo Best Fit
 
 Equipo 7:
 - MARTHA ELENA  CARRERA SANCHEZ
